@@ -23,7 +23,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/VishalCodingNinja",
+        "url": "https://github.com/VishalCodingNinja?tab=repositories",
         "className": "fa fa-github"
       },
       {
@@ -53,7 +53,7 @@
         "company": "RDA Labs Pvt Ltd, Bangalore",
         "title": "Lead Engineer",
         "years": "02/2020 - 12/2023",
-        "description": "Developed and optimized CI/CD processes, implemented TDD and SOLID principles, and led Agile and Scrum practices for high-quality software delivery."
+        "description": "Developed APIs, Ui portals and optimized CI/CD processes, implemented TDD and SOLID principles, and led Agile and Scrum practices for high-quality software delivery."
       },
       {
         "company": "Euromonitor International Pvt Ltd, Bangalore",
@@ -106,7 +106,7 @@
       {
         "title": "Global Sales Application",
         "description": "A platform offering insurance for mobile warranties and gadgets.",
-        "category": "Software Development",
+        "category": "Full stack development(.net, angular, aws and azure)",
         "tags": "CI/CD, TDD, SOLID",
         "image": "global-sales-platform.jpg",
         "url": "https://sales.samsungcareplus.assurant.de/dashboard",
@@ -115,7 +115,7 @@
       {
         "title": "Passport",
         "description": "Global market research platform providing insights across industries.",
-        "category": ".net, angular and azure",
+        "category": "Full stack development(.net, angular, aws and azure)",
         "tags": "Market Research, Microservices",
         "image": "passport.jpg",
         "url": "https://www.euromonitor.com/our-expertise/passport",
@@ -124,7 +124,7 @@
       {
         "title": "IKEA Market insights",
         "description": "Global market research platform providing insights across about product and helping IKEA internet imployees in understanding the price compitition in the market.",
-        "category": "IKEA Market insights Application",
+        "category": "Full stack development(.net, angular, aws and azure)",
         "tags": "Market Research, Microservices",
         "image": "ikea-market-insights.jpg",
         "url": "https://www.euromonitor.com/our-expertise/passport",
