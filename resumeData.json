@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Vishal Singh",
+    "occupation": "Lead Software Engineer",
+    "description": "With over 6 years of experience in software development, I have honed my skills in .NET, Angular, Azure, AWS, NoSQL, and SQL, successfully leading teams and projects in agile environments. I’m adept at streamlining processes and improving efficiency through CI/CD, SOLID principles, and TDD. My technical expertise and focus on best practices drive the delivery of high-quality software solutions on time",
+    "image": "profilepic.jpg",
+    "bio": "I am an experienced Software Engineer and dedicated learner with a solid background in leveraging technology to solve complex business challenges.",
+    "email": "vishal8840906676@gmail.com",
+    "phone": "+49 15162641102",
+    "address": {
+      "street": "Feubachstr. 22",
+      "city": "Germany",
+      "state": "Berlin",
+      "zip": "12316"
+    },
+    "website": "https://www.linkedin.com/in/vishal-singh-694502112/",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vishal-singh-694502112/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/VishalCodingNinja",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "quora",
+        "url": "https://www.quora.com/profile/Vishal-SriVastava-590",
+        "className": "fa fa-quora"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Center for Development of Advanced Computing Knowledge Park, Bangalore, India",
+        "degree": "Post Graduate Diploma in Advanced Computing",
+        "graduated": "August 2018",
+        "description": "Studied advanced computing technologies and developed high-performance software solutions."
+      },
+      {
+        "school": "Institute of Engineering and Technology, Dr. R.M.L Avadh University, Faizabad",
+        "degree": "Bachelor of Technology",
+        "graduated": "June 2017",
+        "description": "Explored advanced software and algorithms concepts."
+      }
+    ],
+    "work": [
+      {
+        "company": "RDA Labs Pvt Ltd, Bangalore",
+        "title": "Lead Engineer",
+        "years": "02/2020 - 12/2023",
+        "description": "Developed and optimized CI/CD processes, implemented TDD and SOLID principles, and led Agile and Scrum practices for high-quality software delivery."
+      },
+      {
+        "company": "Euromonitor International Pvt Ltd, Bangalore",
+        "title": "Software Engineer",
+        "years": "09/2018 - 01/2020",
+        "description": "Built robust web applications and REST APIs, managed CI/CD pipelines, and delivered software in Agile teams."
+      }
+    ],
+    "skills": [
+      {
+        "name": ".NET Core",
+        "level": "95%"
+      },
+      {
+        "name": "Azure",
+        "level": "95%"
+      },
+      {
+        "name": "AWS",
+        "level": "95%"
+      },
+      {
+        "name": "Azure DevOps",
+        "level": "95%"
+      },
+      {
+        "name": "Angular",
+        "level": "85%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Terraform",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Global Sales Application",
+        "description": "A platform offering insurance for mobile warranties and gadgets.",
+        "category": "Software Development",
+        "tags": "CI/CD, TDD, SOLID",
+        "image": "global-sales-platform.jpg",
+        "url": "https://sales.samsungcareplus.assurant.de/dashboard",
+        "modal": "https://sales.samsungcareplus.assurant.de/dashboard"
+      },
+      {
+        "title": "Passport",
+        "description": "Global market research platform providing insights across industries.",
+        "category": ".net, angular and azure",
+        "tags": "Market Research, Microservices",
+        "image": "passport.jpg",
+        "url": "https://www.euromonitor.com/our-expertise/passport",
+        "modal": "https://www.euromonitor.com/our-expertise/passport"
+      },
+      {
+        "title": "IKEA Market insights",
+        "description": "Global market research platform providing insights across about product and helping IKEA internet imployees in understanding the price compitition in the market.",
+        "category": "IKEA Market insights Application",
+        "tags": "Market Research, Microservices",
+        "image": "ikea-market-insights.jpg",
+        "url": "https://www.euromonitor.com/our-expertise/passport",
+        "modal": "https://www.euromonitor.com/our-expertise/passport"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Vishal is an incredibly talented Full Stack Engineer with expertise in Angular and Microsoft technologies. I've had the pleasure of working with him, and he’s always impressed me with his quick learning ability and knack for finding the best solutions.",
+        "user": "Mathew George, Associate Director Cloud Engineering & IT | Cloud Architect, RDAlabs LLC"
+      },
+      {
+        "text": "Vishal came into our team and was able to contribute immediately. His ability to grasp technology quickly allowed us to deliver against an aggressive deadline. He is able to develop quality solutions and collaborate with other developers well.",
+        "user": "Steven Salgado, AVP(Software Engineering), Assurant"
+      }
+    ]
+  }
+}
